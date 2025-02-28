@@ -1,16 +1,29 @@
-## Hi there 👋
+#### Main Languages and Technologies
+- **C#**
+- **C++**
+- **Altium**
+- **Unreal Engine 5**
+- **Embedded Development**
+  - **PCB:**
+    - high-speed routing
+    - low-power system design
+    - electronics development for mass production
+    - focus on digital and analog electronics
+  - **Programming:**
+    - Embedded C++
+    - STM32, ESP32, Nordic
 
-<!--
-**VeyDlin/VeyDlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Secondary Languages and Technologies
+- **Python**
+- **TypeScript / JavaScript**
+- **Vue**
+- **Unity 6**
 
-Here are some ideas to get you started:
+#### Personal Interests
+- I play piano and guitar
+- I'm interested in astrophysics
+- I love fantasy literature
+- I'm into sandbox games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Specialization
+- Classless Player
